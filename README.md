@@ -1,2 +1,2 @@
 # Test App
-This will be the master version of the test app.
+This will be the foo-branch version of the test app.
